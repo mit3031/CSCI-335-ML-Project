@@ -1,0 +1,8 @@
+/out/
+*.xml
+*.bin
+*.iml
+/bin/
+.vscode/
+.venv/
+data/*.csv
