@@ -1,0 +1,5 @@
+Sanh, V. et al. (2019). DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter.
+
+Devlin, J. et al. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.
+
+Kaggle. Twitter Entity Sentiment Analysis dataset (jp797498e).
